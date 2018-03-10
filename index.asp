@@ -18,7 +18,7 @@
 			<li>Push</li>
 			<li>Pull</li>
 			<li>External diff</li>
-			<li>스태쉬</li>
+			<li>stash</li>
 		</ul>
 	</body>
 </html>
